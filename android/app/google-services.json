@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846153736225",
+    "project_id": "the-wall-cc76e",
+    "storage_bucket": "the-wall-cc76e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846153736225:android:957fb031d3b2d9da6a0360",
+        "android_client_info": {
+          "package_name": "com.example.wall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOocLG9f3e8F09Zm0Qf7HXdDFfAfrBYAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
